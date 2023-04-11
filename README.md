@@ -24,6 +24,3 @@ Movie mania is built using the following technologies:
 
 # Demo 
 
-- Check out our live demo at https://moviemania.netlify.app/ 
- 
-- Youtube video : https://www.youtube.com/watch?v=mGqOOtEGmJc.
