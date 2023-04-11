@@ -1,5 +1,5 @@
 # Moviemania
-BlueBird-Movies is a React-based movie website that allows users to search for movies by title, sort them by genre, view trending and upcoming movies, and bookmark their favorite movies. The website is designed to be user-friendly and visually appealing.
+Moviemania is a React-based movie website that allows users to search for movies by title, sort them by genre, view trending and upcoming movies, and bookmark their favorite movies. The website is designed to be user-friendly and visually appealing.
 
 [![background](./readme/bg.png)]()
 
@@ -15,7 +15,7 @@ BlueBird-Movies is a React-based movie website that allows users to search for m
 
 # Technology
 
-Movie mania is built using the following technologies:
+Moviemania is built using the following technologies:
 
 - ReactJS
 - TMDB API
