@@ -24,4 +24,4 @@ Moviemania is built using the following technologies:
 
 # Demo 
 
-website:- 
+website:- https://stackblitz.com/edit/vitejs-vite-xqecwd
